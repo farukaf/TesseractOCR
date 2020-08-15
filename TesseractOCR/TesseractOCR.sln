@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesseractOCR", "TesseractOCR\TesseractOCR.csproj", "{1BC927B8-DF38-4370-AEEB-312A1794378B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC927B8-DF38-4370-AEEB-312A1794378B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC927B8-DF38-4370-AEEB-312A1794378B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC927B8-DF38-4370-AEEB-312A1794378B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC927B8-DF38-4370-AEEB-312A1794378B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07A9D60-C8A0-48C2-A0F6-71C0DFB93955}
+	EndGlobalSection
+EndGlobal
